@@ -31,7 +31,7 @@ se naši Discord skupnosti za dodatno pomoč,
 ideje in povezovanje z drugimi lastniki strežnikov.</p>
 
 ```
-## Funkcionalnostid
+## Funkcionalnosti
 
 1. 🛒 Spletno nakupovanje *Enostaven in varen nakup virov preko naše spletne trgovine s hitro Tebex obdelavo*
 2. ☎️ 24/7 podpora *Naša ekipa jevedno na voljo preko Discord-a in Epošte za pomoč pri težavah*
