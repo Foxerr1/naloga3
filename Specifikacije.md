@@ -38,3 +38,17 @@ ideje in povezovanje z drugimi lastniki strežnikov.</p>
 3. 📦 Takojšna dostava *Po zaključku nakupa so vsi viri nemudoma nemudoma na voljo za prenos*
 4. ⬆️ Redne posodobitve *Skrbimo za združljivost z novejšimi FiveM različicami in redno dodajamo izboljšave*
 
+
+<h3>Izgled</h3>
+
+<ul>
+  <li><b>Stran mora biti pregledna in enostavna za uporabo.</b></li>
+  <li><b>Barvna shema naj bo usklajena in prijetna za oči.</b></li>
+  <li>Besedilo mora biti dobro berljivo.</li>
+  <li>Stran naj se pravilno prikaže na različnih napravah.</li>
+</ul>
+
+<p>
+  Spletna stran po kateri bi se zgledovali glede designa:
+  <a href="https://www.jeton.com/" target="_blank">jeton</a>
+</p>
