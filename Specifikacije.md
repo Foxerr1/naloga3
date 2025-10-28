@@ -39,16 +39,12 @@ ideje in povezovanje z drugimi lastniki strežnikov.</p>
 4. ⬆️ Redne posodobitve *Skrbimo za združljivost z novejšimi FiveM različicami in redno dodajamo izboljšave*
 
 
-<h3>Izgled</h3>
+### Izgled
 
-<ul>
-  <li><b>Stran mora biti pregledna in enostavna za uporabo.</b></li>
-  <li><b>Barvna shema naj bo usklajena in prijetna za oči.</b></li>
-  <li>Besedilo mora biti dobro berljivo.</li>
-  <li>Stran naj se pravilno prikaže na različnih napravah.</li>
-</ul>
+- **Stran mora biti odzivna (responsive)** in se prilagajati različnim napravam.  
+- **Uporabiti je treba enotno barvno shemo in tipografijo.**  
+- Navigacija mora biti jasna in enostavna za uporabo.  
+- Vsebina mora biti pregledno razporejena z dovolj prostora med elementi.  
 
-<p>
-  Spletna stran po kateri bi se zgledovali glede designa:
-  <a href="https://www.jeton.com/" target="_blank">jeton</a>
-</p>
+Zgled za oblikovanje lahko najdete na [spletni strani Jeton](https://www.jeton.com/).
+
